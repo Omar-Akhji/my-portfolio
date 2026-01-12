@@ -1,0 +1,132 @@
+﻿
+> my-app@0.1.0 build
+> next build
+
+node.exe : ⚠ 
+Warning: Next.js 
+inferred your 
+workspace root, 
+but it may not be 
+correct.
+At line:1 char:1
++ & "C:\Program Fil
+es\nodejs/node.exe"
+ "C:\Program Files\
+nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+    + CategoryInfo 
+             : No  
+  tSpecified: (⚠   
+  Warning: Next    
+...not be corr    
+ect.:String) [    
+], RemoteExcep    
+tion
+    + FullyQualifi 
+   edErrorId : Na  
+  tiveCommandErr   
+ or
+ 
+ We detected 
+multiple lockfiles 
+and selected the 
+directory of C:\Use
+rs\omara\OneDrive\D
+esktop\Z PORT\packa
+ge-lock.json as 
+the root directory.
+ To silence this 
+warning, set 
+`turbopack.root` 
+in your Next.js 
+config, or 
+consider removing 
+one of the 
+lockfiles if it's 
+not needed.
+   See https://next
+js.org/docs/app/api
+-reference/config/n
+ext-config-js/turbo
+pack#root-directory
+ for more 
+information.
+ Detected 
+additional 
+lockfiles: 
+   * C:\Users\omara
+\OneDrive\Desktop\Z
+ PORT\my-app\packag
+e-lock.json
+
+▲ Next.js 16.1.1 (Turbopack)
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 4.5s
+  Running TypeScript ...
+Failed to compile.
+
+./app/page.tsx:19:7
+Type error: Object 
+literal may only 
+specify known 
+properties, and 
+'date' does not 
+exist in type 
+'TestimonialData'.
+
+[0m [90m 17 
+|[39m       
+avatar[33m:[39m 
+[32m"/assets/images
+/avatar-1.png"[39m
+[33m,[39m
+ [90m 18 |[39m   
+    
+text[33m:[39m 
+[32m"Richard was 
+hired to create a 
+corporate 
+identity. We were 
+very pleased with 
+the work done. She 
+has a lot of 
+experience and is 
+very concerned 
+about the needs of 
+client. Lorem 
+ipsum dolor sit 
+amet, ullamcous 
+cididt consectetur 
+adipiscing elit, 
+seds do et eiusmod 
+tempor incididunt 
+ut laborels dolore 
+magnarels alia."[3
+9m[33m,[39m
+[31m[1m>[22m[39
+m[90m 19 |[39m   
+    
+date[33m:[39m 
+[32m"14 June, 2021
+"[39m[33m,[39m
+ [90m    |[39m   
+    [31m[1m^[22m
+[39m
+ [90m 20 |[39m   
+  }[33m,[39m
+ [90m 21 |[39m   
+  {
+ [90m 22 |[39m   
+    
+name[33m:[39m 
+[32m"Jessica mille
+r"[39m[33m,[39m
+[0m
+Next.js build 
+worker exited with 
+code: 1 and 
+signal: null
