@@ -39,7 +39,7 @@ const Sidebar = () => {
         </div>
 
         <button
-          className="info_more-btn"
+          className="info-more-btn"
           onClick={toggleSidebar}
           data-sidebar-btn>
           <span>Show Contacts</span>
@@ -47,7 +47,7 @@ const Sidebar = () => {
         </button>
       </div>
 
-      <div className="sidebar-info_more">
+      <div className="sidebar-info-more">
         <div className="separator"></div>
 
         <ul className="contacts-list">

@@ -203,7 +203,7 @@ export default function Home() {
                 alt="client logo"
                 width={100}
                 height={50}
-                style={{ width: "auto", height: "auto" }}
+                style={{ width: "100%", height: "auto" }}
                 unoptimized
               />
             </a>
@@ -216,7 +216,7 @@ export default function Home() {
                 alt="client logo"
                 width={100}
                 height={50}
-                style={{ width: "auto", height: "auto" }}
+                style={{ width: "100%", height: "auto" }}
                 unoptimized
               />
             </a>
@@ -229,7 +229,7 @@ export default function Home() {
                 alt="client logo"
                 width={100}
                 height={50}
-                style={{ width: "auto", height: "auto" }}
+                style={{ width: "100%", height: "auto" }}
                 unoptimized
               />
             </a>
@@ -242,7 +242,7 @@ export default function Home() {
                 alt="client logo"
                 width={100}
                 height={50}
-                style={{ width: "auto", height: "auto" }}
+                style={{ width: "100%", height: "auto" }}
                 unoptimized
               />
             </a>
@@ -255,7 +255,7 @@ export default function Home() {
                 alt="client logo"
                 width={100}
                 height={50}
-                style={{ width: "auto", height: "auto" }}
+                style={{ width: "100%", height: "auto" }}
                 unoptimized
               />
             </a>
@@ -268,7 +268,7 @@ export default function Home() {
                 alt="client logo"
                 width={100}
                 height={50}
-                style={{ width: "auto", height: "auto" }}
+                style={{ width: "100%", height: "auto" }}
                 unoptimized
               />
             </a>
